@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonsAgent.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonsAgent.cs" Line="50" Column="45" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="37" Column="16" />
+      <File FileName="Assets/Scripts/BlankButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Button.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Target.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TurnButton.cs" Line="53" Column="4" />
+      <File FileName="Assets/ML-Agents/Examples/Area/Scripts/Wall/WallAcademy.cs" Line="7" Column="31" />
+      <File FileName="Assets/ML-Agents/Examples/Area/Scripts/Wall/WallArea.cs" Line="22" Column="35" />
+      <File FileName="Assets/ML-Agents/Examples/Area/Scripts/AreaAgent.cs" Line="89" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
